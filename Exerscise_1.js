@@ -11,6 +11,6 @@ and then print it.
 var Price = 70000
 var Product = "Samsung Mobile"
 var Tax = (8/100)*Price;
-console.log(Product);
+console.log("Product:",Product);
 var total = Price + Tax;
-console.log("Price: ",total)
+console.log("Price:",total)
